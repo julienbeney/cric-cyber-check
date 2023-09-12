@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.header('CRIC Toolbox: Your All-In-One Cybersecurity Check')
+st.header('CRIC SEARCH: Your All-In-One Cybersecurity Check')
 st.markdown('''Dive deep into the digital space with confidence, thanks to the CRIC Toolbox, a state-of-the-art cybersecurity suite designed to keep you a step ahead in the digital world.
 
 - Leak Check: Receive detailed reports of personal data leaks associated with your email, including the nature of the data and the exact time of the leak.
