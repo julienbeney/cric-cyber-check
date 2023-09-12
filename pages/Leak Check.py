@@ -20,7 +20,7 @@ with col1:
         api_endpoint = 'https://leak-lookup.com/api/search'
         response = requests.post(api_endpoint,
             data={
-                "key": 'b53f6a8d5d48091321f42ab97989a797',
+                "key": '235b7aadb5b65a03c53f56abc966f644',
                 "type": 'email_address',
                 "query": email,
 
@@ -58,7 +58,7 @@ with col2:
         api_endpoint = 'https://leak-lookup.com/api/search'
         response = requests.post(api_endpoint,
             data={
-                "key": 'b53f6a8d5d48091321f42ab97989a797',
+                "key": '235b7aadb5b65a03c53f56abc966f644',
                 "type": 'domain',
                 "query": domain,
 

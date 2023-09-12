@@ -9,5 +9,5 @@ st.divider()
 st.markdown('We are working tirelessly to bring this tool to this server. In the meantime, we are thrilled to announce that Cybercheck is available for use at a specific location.')
 web = st.text_input('Enter your website url:')
 if st.button('Check the website') and web != '':
-    st.write(f'[Access {web} data result](https://web-check.as93.net/results/globaz.ch)')
+    st.write(f'[Access {web} data result](https://web-check.as93.net/results/{web})')
 
